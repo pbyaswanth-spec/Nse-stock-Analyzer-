@@ -1,1 +1,1 @@
-# Nse-stock-Analyzer-
+# Nse-stock-Analyzer
